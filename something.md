@@ -44,7 +44,10 @@ POST 得到响应，需提供以下信息：
 - query
 - variables
 
-如果 operationName 为 questionData，variables 为 titleSlug: {titleSlug}
+如果 
+operationName: "questionData"
+query: "query questionData($titleSlug: String!) {↵  question(titleSlug: $titleSlug) {↵    questionId↵    questionFrontendId↵    boundTopicId↵    title↵    titleSlug↵    content↵    translatedTitle↵    translatedContent↵    isPaidOnly↵    difficulty↵    likes↵    dislikes↵    isLiked↵    similarQuestions↵    contributors {↵      username↵      profileUrl↵      avatarUrl↵      __typename↵    }↵    langToValidPlayground↵    topicTags {↵      name↵      slug↵      translatedName↵      __typename↵    }↵    companyTagStats↵    codeSnippets {↵      lang↵      langSlug↵      code↵      __typename↵    }↵    stats↵    hints↵    solution {↵      id↵      canSeeDetail↵      __typename↵    }↵    status↵    sampleTestCase↵    metaData↵    judgerAvailable↵    judgeType↵    mysqlSchemas↵    enableRunCode↵    enableTestMode↵    envInfo↵    __typename↵  }↵}↵"
+variables: {titleSlug: "number-of-enclaves"}
 
 记录了给定问题的相关信息
 
@@ -72,7 +75,10 @@ https://leetcode-cn.com/submissions/latest/?qid={questionId}&lang={lang}
 
 获取最新提交的解答
 
-如果 operationName 为 Submissions，variables 为 questionSlug: {titleSlug}
+如果
+operationName: "Submissions"
+query: "query Submissions($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!) {↵  submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {↵    lastKey↵    hasNext↵    submissions {↵      id↵      statusDisplay↵      lang↵      runtime↵      timestamp↵      url↵      isPending↵      memory↵      __typename↵    }↵    __typename↵  }↵}↵"
+variables: {offset: 0, limit: 20, lastKey: null, questionSlug: "friends-of-appropriate-ages"}
 
 记录了提交的代码信息
 
@@ -84,3 +90,34 @@ https://leetcode-cn.com/submissions/latest/?qid={questionId}&lang={lang}
 - data.submissionList.submissions.statusDisplay
 - data.submissionList.submissions.timestamp
 - data.submissionList.submissions.url
+
+
+如果
+operationName: null
+query: "{↵  brightTitle↵  allContests {↵    containsPremium↵    title↵    cardImg↵    titleSlug↵    description↵    startTime↵    duration↵    originStartTime↵    isVirtual↵    company {↵      watermark↵      __typename↵    }↵    __typename↵  }↵}↵"
+variables: {}
+
+记录了所有竞赛的信息
+
+包含：
+
+- data.allContests.title
+- data.allContests.titleSlug
+
+竞赛链接：https://leetcode-cn.com/contest/api/ranking/weekly-contest-132/?pagination=1&region=local
+
+
+如果
+operationName: "contestGroup"
+query: "query contestGroup($slug: String!) {↵  contestGroup(slug: $slug) {↵    title↵    contestCount↵    contests {↵      title↵      titleSlug↵      startTime↵      duration↵      questions {↵        title↵        titleCn↵        titleSlug↵        credit↵        __typename↵      }↵      __typename↵    }↵    __typename↵  }↵}↵"
+variables: {slug: "2019-spring"}
+
+记录了2019春季赛的信息
+
+包含：
+
+- data.contestGroup.contests.title
+- data.contestGroup.contests.titleSlug
+- data.contestGroup.contests.question.title
+- data.contestGroup.contests.question.titleCn
+- data.contestGroup.contests.question.titleSlug
