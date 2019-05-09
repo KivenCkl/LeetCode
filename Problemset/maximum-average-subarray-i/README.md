@@ -30,4 +30,4 @@
 
 ## 相似题目
 
-- [None](../maximum-average-subarray-ii/README.md)
+- [最大平均子段和 II](../maximum-average-subarray-ii/README.md)
