@@ -41,5 +41,5 @@
 
 ## 相似题目
 
-- [岛屿的个数](../number-of-islands/README.md)
+- [岛屿数量](../number-of-islands/README.md)
 - [岛屿的周长](../island-perimeter/README.md)

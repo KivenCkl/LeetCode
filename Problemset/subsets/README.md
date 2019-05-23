@@ -34,5 +34,5 @@
 ## 相似题目
 
 - [子集 II](../subsets-ii/README.md)
-- [列举缩写](../generalized-abbreviation/README.md)
+- [列举单词的全部缩写](../generalized-abbreviation/README.md)
 - [字母大小写全排列](../letter-case-permutation/README.md)
