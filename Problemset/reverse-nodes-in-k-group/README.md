@@ -1,13 +1,15 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0025. k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+# [0025. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 ## 题目描述
 
-<p>给出一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，并返回翻转后的链表。</p>
+<p>给你一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，请你返回翻转后的链表。</p>
 
-<p><em>k&nbsp;</em>是一个正整数，它的值小于或等于链表的长度。如果节点总数不是&nbsp;<em>k&nbsp;</em>的整数倍，那么将最后剩余节点保持原有顺序。</p>
+<p><em>k&nbsp;</em>是一个正整数，它的值小于或等于链表的长度。</p>
+
+<p>如果节点总数不是&nbsp;<em>k&nbsp;</em>的整数倍，那么请将最后剩余的节点保持原有顺序。</p>
 
 <p><strong>示例 :</strong></p>
 

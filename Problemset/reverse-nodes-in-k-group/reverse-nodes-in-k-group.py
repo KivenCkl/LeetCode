@@ -1,5 +1,5 @@
 
-# @Title: k个一组翻转链表 (Reverse Nodes in k-Group)
+# @Title: K 个一组翻转链表 (Reverse Nodes in k-Group)
 # @Author: KivenC
 # @Date: 2019-01-27 22:17:52
 # @Runtime: 104 ms
