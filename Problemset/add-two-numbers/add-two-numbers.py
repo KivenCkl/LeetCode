@@ -1,9 +1,9 @@
 
 # @Title: 两数相加 (Add Two Numbers)
 # @Author: KivenC
-# @Date: 2018-12-08 14:04:48
-# @Runtime: 140 ms
-# @Memory: 7.1 MB
+# @Date: 2019-06-05 10:38:34
+# @Runtime: 92 ms
+# @Memory: 12.9 MB
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -12,34 +12,18 @@
 #         self.next = None
 
 class Solution:
-    def addTwoNumbers(self, l1, l2):
-        """
-        :type l1: ListNode
-        :type l2: ListNode
-        :rtype: ListNode
-        """
-        result = ListNode(0)
-        cur = result
-        while l1 or l2:
-            cur.val += self.addNode(l1, l2)
-            if cur.val > 9:
-                cur.val -= 10
-                cur.next = ListNode(1)
-            else:
-                if l1 and l1.next or l2 and l2.next:
-                    cur.next = ListNode(0)
-            cur = cur.next
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        cur = res = ListNode(0)
+        carry = 0
+        while l1 or l2 or carry:
+            tmp = carry
             if l1:
+                tmp += l1.val
                 l1 = l1.next
             if l2:
+                tmp += l2.val
                 l2 = l2.next
-        return result
-    
-    def addNode(self, node1, node2):
-        if not node1 and not node2:
-            pass
-        if not node1:
-            return node2.val
-        if not node2:
-            return node1.val
-        return node1.val + node2.val
+            cur.next = ListNode(tmp % 10)
+            carry = tmp // 10
+            cur = cur.next
+        return res.next
