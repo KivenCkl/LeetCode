@@ -1,16 +1,37 @@
 
 # @Title: 最长回文子串 (Longest Palindromic Substring)
 # @Author: KivenC
-# @Date: 2018-12-28 22:16:57
-# @Runtime: 216 ms
-# @Memory: 6.5 MB
+# @Date: 2019-06-12 15:25:33
+# @Runtime: 136 ms
+# @Memory: 13.1 MB
 
 class Solution:
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+    def longestPalindrome(self, s: str) -> str:
+#         # way 1
+#         # 从回文串的中心向两边扩展，O(n^2)
+#         # 分奇数串和偶数串
+#         if len(s) < 2:
+#             return s
+        
+#         def expandAroundCenter(s: str, left: int, right: int):
+#             while left >= 0 and right < len(s) and s[left] == s[right]:
+#                 left -= 1
+#                 right += 1
+#             return right - left - 1
+        
+#         start, end = 0, 0
+#         for i, _ in enumerate(s):
+#             len_odd = expandAroundCenter(s, i, i)  # 奇数串
+#             len_even = expandAroundCenter(s, i, i + 1)  # 偶数串
+#             res = max(len_odd, len_even)
+#             if res > end - start:
+#                 start = i - (res - 1) // 2
+#                 end = i + res // 2
+#         return s[start: end+1]
+
+        # way 2
+        # Manacher 算法
+        # O(n)
         new_s = '$#' + '#'.join(s) + '#'
         mx, ct, resLen, resCenter = 0, 0, 0, 0
         p = [0 for _ in range(len(new_s))]
