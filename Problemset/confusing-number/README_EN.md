@@ -14,3 +14,4 @@ None
 ## Similar Questions
 
 - [Strobogrammatic Number](../strobogrammatic-number/README_EN.md)
+- [Confusing Number II](../confusing-number-ii/README_EN.md)

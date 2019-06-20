@@ -14,3 +14,4 @@ None
 ## 相似题目
 
 - [中心对称数](../strobogrammatic-number/README.md)
+- [易混淆数 II](../confusing-number-ii/README.md)
