@@ -18,8 +18,6 @@ Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
 return [<strong>0</strong>, <strong>1</strong>].
 </pre>
 
-<p>&nbsp;</p>
-
 
 ## Related Topics
 
@@ -34,3 +32,4 @@ return [<strong>0</strong>, <strong>1</strong>].
 - [Two Sum III - Data structure design](../two-sum-iii-data-structure-design/README_EN.md)
 - [Subarray Sum Equals K](../subarray-sum-equals-k/README_EN.md)
 - [Two Sum IV - Input is a BST](../two-sum-iv-input-is-a-bst/README_EN.md)
+- [Two Sum Less Than K](../two-sum-less-than-k/README_EN.md)

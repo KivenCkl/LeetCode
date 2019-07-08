@@ -37,3 +37,4 @@
 - [乘积最大子序列](../maximum-product-subarray/README.md)
 - [和等于 k 的最长子数组长度](../maximum-size-subarray-sum-equals-k/README.md)
 - [和为K的子数组](../subarray-sum-equals-k/README.md)
+- [小于 K 的两数之和](../two-sum-less-than-k/README.md)

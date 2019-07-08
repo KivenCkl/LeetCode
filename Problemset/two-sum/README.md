@@ -31,3 +31,4 @@
 - [两数之和 III - 数据结构设计](../two-sum-iii-data-structure-design/README.md)
 - [和为K的子数组](../subarray-sum-equals-k/README.md)
 - [两数之和 IV - 输入 BST](../two-sum-iv-input-is-a-bst/README.md)
+- [小于 K 的两数之和](../two-sum-less-than-k/README.md)
