@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0236. Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+# [236. Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ## Description
 
@@ -46,3 +46,4 @@
 ## Similar Questions
 
 - [Lowest Common Ancestor of a Binary Search Tree](../lowest-common-ancestor-of-a-binary-search-tree/README_EN.md)
+- [Smallest Common Region](../smallest-common-region/README_EN.md)

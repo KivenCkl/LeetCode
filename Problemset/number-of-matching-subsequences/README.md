@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0792. 匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences/)
+# [792. 匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences/)
 
 ## 题目描述
 

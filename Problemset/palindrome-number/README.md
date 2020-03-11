@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0009. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+# [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0717. 1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
+# [717. 1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
 
 ## Description
 

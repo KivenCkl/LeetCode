@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0016. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
+# [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
 
 ## 题目描述
 

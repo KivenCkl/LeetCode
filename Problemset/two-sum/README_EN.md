@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0001. Two Sum](https://leetcode-cn.com/problems/two-sum/)
+# [1. Two Sum](https://leetcode-cn.com/problems/two-sum/)
 
 ## Description
 

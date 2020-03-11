@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0017. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+# [17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0775. Global and Local Inversions](https://leetcode-cn.com/problems/global-and-local-inversions/)
+# [775. Global and Local Inversions](https://leetcode-cn.com/problems/global-and-local-inversions/)
 
 ## Description
 

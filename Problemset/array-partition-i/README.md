@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)
+# [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)
 
 ## 题目描述
 

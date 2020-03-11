@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0026. Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+# [26. Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 
 ## Description
 
@@ -45,7 +45,6 @@ int len = removeDuplicates(nums);
 for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }</pre>
-
 
 ## Related Topics
 

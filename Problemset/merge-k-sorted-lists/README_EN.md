@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0023. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+# [23. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)
+# [621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)
 
 ## Description
 

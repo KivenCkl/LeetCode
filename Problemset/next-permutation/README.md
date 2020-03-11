@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0031. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+# [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
 
 ## 题目描述
 

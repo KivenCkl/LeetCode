@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0080. Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
+# [80. Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 
 ## Description
 

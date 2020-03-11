@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
+# [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
 
 ## 题目描述
 

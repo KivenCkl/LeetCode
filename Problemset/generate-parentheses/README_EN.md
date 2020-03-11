@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0022. Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)
+# [22. Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)
 
 ## Description
 

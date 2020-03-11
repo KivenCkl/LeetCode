@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+# [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
 
 ## 题目描述
 

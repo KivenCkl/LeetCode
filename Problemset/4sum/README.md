@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0018. 四数之和](https://leetcode-cn.com/problems/4sum/)
+# [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
 
 ## 题目描述
 

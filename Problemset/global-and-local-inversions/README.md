@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0775. 全局倒置与局部倒置](https://leetcode-cn.com/problems/global-and-local-inversions/)
+# [775. 全局倒置与局部倒置](https://leetcode-cn.com/problems/global-and-local-inversions/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0647. Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)
+# [647. Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)
 
 ## Description
 
@@ -36,7 +36,6 @@
 </ol>
 
 <p>&nbsp;</p>
-
 
 ## Related Topics
 

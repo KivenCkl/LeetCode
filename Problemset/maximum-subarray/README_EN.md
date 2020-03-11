@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0053. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)
+# [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)
 
 ## Description
 

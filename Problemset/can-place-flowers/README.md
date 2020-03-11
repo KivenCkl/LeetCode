@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)
+# [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)
 
 ## 题目描述
 

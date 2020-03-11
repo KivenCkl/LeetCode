@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+# [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
 
 ## 题目描述
 

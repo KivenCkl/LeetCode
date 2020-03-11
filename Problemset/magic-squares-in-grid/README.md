@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0840. 矩阵中的幻方](https://leetcode-cn.com/problems/magic-squares-in-grid/)
+# [840. 矩阵中的幻方](https://leetcode-cn.com/problems/magic-squares-in-grid/)
 
 ## 题目描述
 

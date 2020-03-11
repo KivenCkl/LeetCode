@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+# [350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+# [334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
 
 ## Description
 

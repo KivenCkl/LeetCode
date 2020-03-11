@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0018. 4Sum](https://leetcode-cn.com/problems/4sum/)
+# [18. 4Sum](https://leetcode-cn.com/problems/4sum/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0643. Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)
+# [643. Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)
 
 ## Description
 

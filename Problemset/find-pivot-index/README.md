@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
+# [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
 
 ## 题目描述
 

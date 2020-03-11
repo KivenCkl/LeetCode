@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)
+# [643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)
 
 ## 题目描述
 

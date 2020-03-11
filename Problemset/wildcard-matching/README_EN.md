@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0044. Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)
+# [44. Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0532. K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
+# [532. K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
 
 ## Description
 

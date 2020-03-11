@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+# [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 
 ## 题目描述
 

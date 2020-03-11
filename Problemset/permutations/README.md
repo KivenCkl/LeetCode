@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0046. 全排列](https://leetcode-cn.com/problems/permutations/)
+# [46. 全排列](https://leetcode-cn.com/problems/permutations/)
 
 ## 题目描述
 

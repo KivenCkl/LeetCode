@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0628. Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
+# [628. Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 
 ## Description
 

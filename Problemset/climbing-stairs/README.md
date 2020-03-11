@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0070. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+# [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 
 ## 题目描述
 
@@ -38,3 +38,4 @@
 
 - [使用最小花费爬楼梯](../min-cost-climbing-stairs/README.md)
 - [斐波那契数](../fibonacci-number/README.md)
+- [第 N 个泰波那契数](../n-th-tribonacci-number/README.md)

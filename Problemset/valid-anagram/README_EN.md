@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0242. Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)
+# [242. Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)
 
 ## Description
 

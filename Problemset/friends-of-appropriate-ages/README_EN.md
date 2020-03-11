@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0825. Friends Of Appropriate Ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)
+# [825. Friends Of Appropriate Ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
+# [713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 
 ## 题目描述
 

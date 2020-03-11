@@ -5,13 +5,13 @@
 
 ## 题目描述
 
-<p>给出二叉<strong>搜索</strong>树的根节点，该二叉树的节点值各不相同，修改二叉树，使每个节点 <code>node</code>&nbsp;的新值等于原树中大于或等于&nbsp;<code>node.val</code>&nbsp;的值之和。</p>
+<p>给出二叉<strong> 搜索 </strong>树的根节点，该二叉树的节点值各不相同，修改二叉树，使每个节点 <code>node</code>&nbsp;的新值等于原树中大于或等于&nbsp;<code>node.val</code>&nbsp;的值之和。</p>
 
 <p>提醒一下，二叉搜索树满足下列约束条件：</p>
 
 <ul>
-	<li>节点的左子树仅包含键<strong>小于</strong>节点键的节点。</li>
-	<li>节点的右子树仅包含键<strong>大于</strong>节点键的节点。</li>
+	<li>节点的左子树仅包含键<strong> 小于 </strong>节点键的节点。</li>
+	<li>节点的右子树仅包含键<strong> 大于</strong> 节点键的节点。</li>
 	<li>左右子树也必须是二叉搜索树。</li>
 </ul>
 
@@ -36,6 +36,8 @@
 </ol>
 
 <p>&nbsp;</p>
+
+<p><strong>注意：</strong>该题目与 538:&nbsp;<a href="https://leetcode-cn.com/problems/convert-bst-to-greater-tree/">https://leetcode-cn.com/problems/convert-bst-to-greater-tree/&nbsp; </a>相同</p>
 
 
 ## 相关话题

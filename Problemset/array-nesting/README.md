@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0565. 数组嵌套](https://leetcode-cn.com/problems/array-nesting/)
+# [565. 数组嵌套](https://leetcode-cn.com/problems/array-nesting/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)
+# [605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0674. Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
+# [674. Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0495. Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking/)
+# [495. Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking/)
 
 ## Description
 

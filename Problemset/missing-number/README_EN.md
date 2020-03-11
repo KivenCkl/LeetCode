@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0268. Missing Number](https://leetcode-cn.com/problems/missing-number/)
+# [268. Missing Number](https://leetcode-cn.com/problems/missing-number/)
 
 ## Description
 

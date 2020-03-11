@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/)
+# [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/)
 
 ## 题目描述
 

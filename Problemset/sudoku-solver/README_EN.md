@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0037. Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)
+# [37. Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)
 
 ## Description
 

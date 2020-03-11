@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)
+# [611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)
 
 ## 题目描述
 

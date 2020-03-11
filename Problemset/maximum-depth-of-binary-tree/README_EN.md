@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+# [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
 ## Description
 

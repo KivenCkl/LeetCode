@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
+# [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
 
 ## 题目描述
 

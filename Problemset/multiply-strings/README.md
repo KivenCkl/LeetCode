@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0043. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+# [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
 
 ## 题目描述
 

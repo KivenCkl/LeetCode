@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0003. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+# [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)
+# [697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)
 
 ## Description
 

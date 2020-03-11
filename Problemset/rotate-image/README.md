@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0048. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)
+# [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)
 
 ## 题目描述
 

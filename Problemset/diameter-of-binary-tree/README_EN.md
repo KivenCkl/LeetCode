@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+# [543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
 ## Description
 

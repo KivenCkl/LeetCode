@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)
+# [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)
 
 ## 题目描述
 

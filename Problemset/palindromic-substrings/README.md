@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
+# [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
 
 ## 题目描述
 

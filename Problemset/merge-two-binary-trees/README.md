@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+# [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 
 ## 题目描述
 

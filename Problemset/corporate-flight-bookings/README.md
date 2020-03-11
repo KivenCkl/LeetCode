@@ -32,7 +32,8 @@
 
 ## 相关话题
 
-
+- [数组](https://leetcode-cn.com/tag/array)
+- [数学](https://leetcode-cn.com/tag/math)
 
 ## 相似题目
 

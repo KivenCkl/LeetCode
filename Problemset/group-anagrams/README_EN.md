@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0049. Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)
+# [49. Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)
 
 ## Description
 

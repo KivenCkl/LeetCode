@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0231. Power of Two](https://leetcode-cn.com/problems/power-of-two/)
+# [231. Power of Two](https://leetcode-cn.com/problems/power-of-two/)
 
 ## Description
 

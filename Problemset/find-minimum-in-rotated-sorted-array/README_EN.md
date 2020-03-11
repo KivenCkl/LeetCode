@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+# [153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
 ## Description
 

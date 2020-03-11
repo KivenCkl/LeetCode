@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0344. Reverse String](https://leetcode-cn.com/problems/reverse-string/)
+# [344. Reverse String](https://leetcode-cn.com/problems/reverse-string/)
 
 ## Description
 

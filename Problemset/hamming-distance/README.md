@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
+# [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
 
 ## 题目描述
 

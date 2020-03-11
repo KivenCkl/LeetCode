@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
+# [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
 
 ## Description
 

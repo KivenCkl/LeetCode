@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0075. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)
+# [75. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)
 
 ## Description
 

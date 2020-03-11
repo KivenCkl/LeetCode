@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0747. Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)
+# [747. Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)
 
 ## Description
 

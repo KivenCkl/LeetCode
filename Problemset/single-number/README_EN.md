@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0136. Single Number](https://leetcode-cn.com/problems/single-number/)
+# [136. Single Number](https://leetcode-cn.com/problems/single-number/)
 
 ## Description
 

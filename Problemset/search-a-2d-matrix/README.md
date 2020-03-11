@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0074. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+# [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+# [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
 ## 题目描述
 

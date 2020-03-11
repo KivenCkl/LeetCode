@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0054. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)
+# [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)
 
 ## Description
 

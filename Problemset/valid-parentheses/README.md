@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0020. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+# [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ## 题目描述
 

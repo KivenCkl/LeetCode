@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
+# [661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
 
 ## 题目描述
 

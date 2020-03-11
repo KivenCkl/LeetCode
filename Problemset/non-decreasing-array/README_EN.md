@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0665. Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)
+# [665. Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)
 
 ## Description
 

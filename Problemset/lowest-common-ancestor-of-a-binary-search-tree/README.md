@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+# [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ## 题目描述
 
@@ -45,3 +45,4 @@
 ## 相似题目
 
 - [二叉树的最近公共祖先](../lowest-common-ancestor-of-a-binary-tree/README.md)
+- [最小公共区域](../smallest-common-region/README.md)

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0849. Maximize Distance to Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)
+# [849. Maximize Distance to Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)
 
 ## Description
 

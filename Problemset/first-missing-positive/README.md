@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0041. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)
+# [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)
 
 ## 题目描述
 

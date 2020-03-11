@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0045. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)
+# [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)
 
 ## Description
 

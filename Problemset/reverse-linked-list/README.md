@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+# [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 ## 题目描述
 

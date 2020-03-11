@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+# [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
 ## Description
 

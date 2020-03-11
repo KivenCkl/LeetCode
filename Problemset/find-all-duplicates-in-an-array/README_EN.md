@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0442. Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
+# [442. Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 
 ## Description
 

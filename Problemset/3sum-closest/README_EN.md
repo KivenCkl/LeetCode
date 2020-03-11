@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0016. 3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)
+# [16. 3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)
 
 ## Description
 

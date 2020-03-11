@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0024. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+# [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
 ## Description
 

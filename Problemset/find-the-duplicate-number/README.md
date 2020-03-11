@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+# [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 
 ## 题目描述
 

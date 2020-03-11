@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0566. Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)
+# [566. Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)
 
 ## Description
 

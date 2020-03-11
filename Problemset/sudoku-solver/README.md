@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0037. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+# [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 
 ## 题目描述
 

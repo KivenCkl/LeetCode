@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0001. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+# [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 ## 题目描述
 

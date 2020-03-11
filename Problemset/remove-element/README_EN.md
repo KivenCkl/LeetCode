@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0027. Remove Element](https://leetcode-cn.com/problems/remove-element/)
+# [27. Remove Element](https://leetcode-cn.com/problems/remove-element/)
 
 ## Description
 
@@ -49,7 +49,6 @@ int len = removeElement(nums, val);
 for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }</pre>
-
 
 ## Related Topics
 

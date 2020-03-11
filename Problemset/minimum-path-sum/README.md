@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0064. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+# [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 ## 题目描述
 

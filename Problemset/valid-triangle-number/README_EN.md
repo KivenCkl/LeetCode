@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0611. Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)
+# [611. Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)
 
 ## Description
 

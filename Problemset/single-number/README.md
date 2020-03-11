@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+# [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
 ## 题目描述
 

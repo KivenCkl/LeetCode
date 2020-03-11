@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0414. Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)
+# [414. Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)
 
 ## Description
 

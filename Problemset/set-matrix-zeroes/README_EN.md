@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0073. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
+# [73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0039. Combination Sum](https://leetcode-cn.com/problems/combination-sum/)
+# [39. Combination Sum](https://leetcode-cn.com/problems/combination-sum/)
 
 ## Description
 

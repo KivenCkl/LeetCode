@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0035. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)
+# [35. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)
 
 ## Description
 

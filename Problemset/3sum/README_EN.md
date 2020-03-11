@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0015. 3Sum](https://leetcode-cn.com/problems/3sum/)
+# [15. 3Sum](https://leetcode-cn.com/problems/3sum/)
 
 ## Description
 
@@ -22,7 +22,6 @@ A solution set is:
   [-1, -1, 2]
 ]
 </pre>
-
 
 ## Related Topics
 

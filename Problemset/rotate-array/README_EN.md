@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0189. Rotate Array](https://leetcode-cn.com/problems/rotate-array/)
+# [189. Rotate Array](https://leetcode-cn.com/problems/rotate-array/)
 
 ## Description
 

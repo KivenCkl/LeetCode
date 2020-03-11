@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0089. Gray Code](https://leetcode-cn.com/problems/gray-code/)
+# [89. Gray Code](https://leetcode-cn.com/problems/gray-code/)
 
 ## Description
 

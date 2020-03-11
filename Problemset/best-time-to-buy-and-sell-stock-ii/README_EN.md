@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+# [122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 ## Description
 

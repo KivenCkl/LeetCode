@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0056. Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)
+# [56. Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0031. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)
+# [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+# [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 
 ## 题目描述
 

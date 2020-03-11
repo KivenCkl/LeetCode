@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0050. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+# [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 
 ## 题目描述
 

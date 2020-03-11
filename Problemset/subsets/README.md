@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0078. 子集](https://leetcode-cn.com/problems/subsets/)
+# [78. 子集](https://leetcode-cn.com/problems/subsets/)
 
 ## 题目描述
 

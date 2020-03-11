@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0380. Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+# [380. Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 
 ## Description
 

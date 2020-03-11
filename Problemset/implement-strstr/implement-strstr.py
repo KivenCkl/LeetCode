@@ -1,5 +1,5 @@
 
-# @Title: 实现strStr() (Implement strStr())
+# @Title: 实现 strStr() (Implement strStr())
 # @Author: KivenC
 # @Date: 2019-01-28 14:27:13
 # @Runtime: 44 ms

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0532. 数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
+# [532. 数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
 
 ## 题目描述
 

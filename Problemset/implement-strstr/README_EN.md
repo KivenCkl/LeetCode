@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0028. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+# [28. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 
 ## Description
 

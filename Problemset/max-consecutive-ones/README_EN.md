@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0485. Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)
+# [485. Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)
 
 ## Description
 

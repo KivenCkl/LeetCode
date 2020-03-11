@@ -28,10 +28,10 @@
 	<li><code>1 &lt;= bookings[i][2] &lt;= 10000</code></li>
 </ul>
 
-
 ## Related Topics
 
-
+- [Array](https://leetcode-cn.com/tag/array)
+- [Math](https://leetcode-cn.com/tag/math)
 
 ## Similar Questions
 

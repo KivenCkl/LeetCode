@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0033. Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+# [33. Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
 ## Description
 

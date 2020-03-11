@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0042. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+# [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 
 ## 题目描述
 

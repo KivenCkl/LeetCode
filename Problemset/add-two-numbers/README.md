@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0002. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+# [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ## 题目描述
 

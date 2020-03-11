@@ -1,13 +1,13 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0169. 求众数](https://leetcode-cn.com/problems/majority-element/)
+# [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 
 ## 题目描述
 
-<p>给定一个大小为 <em>n </em>的数组，找到其中的众数。众数是指在数组中出现次数<strong>大于</strong>&nbsp;<code>&lfloor; n/2 &rfloor;</code>&nbsp;的元素。</p>
+<p>给定一个大小为 <em>n </em>的数组，找到其中的多数元素。多数元素是指在数组中出现次数<strong>大于</strong>&nbsp;<code>&lfloor; n/2 &rfloor;</code>&nbsp;的元素。</p>
 
-<p>你可以假设数组是非空的，并且给定的数组总是存在众数。</p>
+<p>你可以假设数组是非空的，并且给定的数组总是存在多数元素。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>
 
@@ -30,3 +30,4 @@
 ## 相似题目
 
 - [求众数 II](../majority-element-ii/README.md)
+- [检查一个数是否在数组中占绝大多数](../check-if-a-number-is-majority-element-in-a-sorted-array/README.md)

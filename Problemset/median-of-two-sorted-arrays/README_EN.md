@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0004. Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+# [4. Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 
 ## Description
 

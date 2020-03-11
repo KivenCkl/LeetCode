@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0014. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+# [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 
 ## 题目描述
 

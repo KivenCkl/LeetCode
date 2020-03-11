@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0565. Array Nesting](https://leetcode-cn.com/problems/array-nesting/)
+# [565. Array Nesting](https://leetcode-cn.com/problems/array-nesting/)
 
 ## Description
 

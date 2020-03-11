@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)
+# [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 
 ## 题目描述
 
@@ -42,5 +42,5 @@
 
 ## 相似题目
 
-- [实现strStr()](../implement-strstr/README.md)
+- [实现 strStr()](../implement-strstr/README.md)
 - [重复叠加字符串匹配](../repeated-string-match/README.md)

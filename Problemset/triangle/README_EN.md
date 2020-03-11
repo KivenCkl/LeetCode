@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0120. Triangle](https://leetcode-cn.com/problems/triangle/)
+# [120. Triangle](https://leetcode-cn.com/problems/triangle/)
 
 ## Description
 

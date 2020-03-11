@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
+# [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 
 ## 题目描述
 

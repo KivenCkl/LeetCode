@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)
+# [495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)
 
 ## 题目描述
 

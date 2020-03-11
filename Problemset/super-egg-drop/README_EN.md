@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0887. Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)
+# [887. Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)
 
 ## Description
 

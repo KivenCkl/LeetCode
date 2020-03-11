@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0043. Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)
+# [43. Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)
 
 ## Description
 

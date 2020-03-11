@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+# [746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0667. Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
+# [667. Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
 
 ## Description
 

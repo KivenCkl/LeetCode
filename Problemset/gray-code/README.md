@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0089. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
+# [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 
 ## 题目描述
 

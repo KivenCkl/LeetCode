@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0459. Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)
+# [459. Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 
 ## Description
 

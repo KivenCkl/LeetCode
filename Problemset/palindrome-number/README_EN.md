@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0009. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
+# [9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
 
 ## Description
 

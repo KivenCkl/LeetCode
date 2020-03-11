@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0617. Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+# [617. Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 
 ## Description
 

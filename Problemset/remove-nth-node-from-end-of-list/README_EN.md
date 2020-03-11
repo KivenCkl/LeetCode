@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0019. Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+# [19. Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 
 ## Description
 

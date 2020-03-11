@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
+# [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
 
 ## 题目描述
 

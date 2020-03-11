@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0561. Array Partition I](https://leetcode-cn.com/problems/array-partition-i/)
+# [561. Array Partition I](https://leetcode-cn.com/problems/array-partition-i/)
 
 ## Description
 

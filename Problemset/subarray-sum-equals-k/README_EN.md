@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+# [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
 ## Description
 

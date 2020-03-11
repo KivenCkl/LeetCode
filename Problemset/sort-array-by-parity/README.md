@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+# [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
 
 ## 题目描述
 

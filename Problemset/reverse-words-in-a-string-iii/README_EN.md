@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
+# [557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
 
 ## Description
 

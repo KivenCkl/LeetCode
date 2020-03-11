@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0840. Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)
+# [840. Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)
 
 ## Description
 

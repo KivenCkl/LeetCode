@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0830. Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/)
+# [830. Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/)
 
 ## Description
 

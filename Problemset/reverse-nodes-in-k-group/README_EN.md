@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0025. Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+# [25. Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 ## Description
 

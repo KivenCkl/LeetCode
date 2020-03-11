@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0152. 乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)
+# [152. 乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)
 
 ## 题目描述
 

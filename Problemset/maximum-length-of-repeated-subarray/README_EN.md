@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0718. Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
+# [718. Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0036. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+# [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
 
 ## 题目描述
 

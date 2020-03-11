@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0494. Target Sum](https://leetcode-cn.com/problems/target-sum/)
+# [494. Target Sum](https://leetcode-cn.com/problems/target-sum/)
 
 ## Description
 

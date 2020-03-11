@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)
+# [724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0074. Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+# [74. Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
 ## Description
 

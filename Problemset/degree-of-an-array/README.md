@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)
+# [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)
 
 ## 题目描述
 

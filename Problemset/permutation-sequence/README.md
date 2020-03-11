@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0060. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
+# [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 
 ## 题目描述
 

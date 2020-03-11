@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
+# [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
 
 ## 题目描述
 

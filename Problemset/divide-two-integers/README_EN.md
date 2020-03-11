@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0029. Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)
+# [29. Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)
 
 ## Description
 

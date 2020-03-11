@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+# [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
 
 ## 题目描述
 

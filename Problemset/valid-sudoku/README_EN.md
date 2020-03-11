@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0036. Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)
+# [36. Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)
 
 ## Description
 

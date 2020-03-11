@@ -1,5 +1,5 @@
 
-# @Title: 报数 (Count and Say)
+# @Title: 外观数列 (Count and Say)
 # @Author: KivenC
 # @Date: 2019-02-25 11:05:18
 # @Runtime: 52 ms

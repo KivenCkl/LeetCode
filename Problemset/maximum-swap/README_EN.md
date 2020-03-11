@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0670. Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)
+# [670. Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)
 
 ## Description
 

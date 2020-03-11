@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0044. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)
+# [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)
 
 ## 题目描述
 

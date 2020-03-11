@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
+# [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
 
 ## 题目描述
 

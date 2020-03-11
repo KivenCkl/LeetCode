@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0167. Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
+# [167. Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ## Description
 

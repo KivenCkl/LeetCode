@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+# [237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 
 ## Description
 

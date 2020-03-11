@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0071. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+# [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
 
 ## 题目描述
 

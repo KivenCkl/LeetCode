@@ -1,5 +1,5 @@
 
-# @Title: 求众数 (Majority Element)
+# @Title: 多数元素 (Majority Element)
 # @Author: KivenC
 # @Date: 2019-03-13 10:01:10
 # @Runtime: 104 ms

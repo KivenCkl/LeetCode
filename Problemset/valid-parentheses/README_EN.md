@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0020. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)
+# [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ## Description
 

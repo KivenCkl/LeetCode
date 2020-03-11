@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0048. Rotate Image](https://leetcode-cn.com/problems/rotate-image/)
+# [48. Rotate Image](https://leetcode-cn.com/problems/rotate-image/)
 
 ## Description
 

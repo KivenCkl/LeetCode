@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+# [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 
 ## 题目描述
 

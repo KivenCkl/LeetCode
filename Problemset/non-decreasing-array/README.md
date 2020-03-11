@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)
+# [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
+# [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)
+# [766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)
 
 ## Description
 

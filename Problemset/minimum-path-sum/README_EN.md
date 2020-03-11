@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0064. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)
+# [64. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 ## Description
 

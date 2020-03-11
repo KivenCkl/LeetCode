@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0238. Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)
+# [238. Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)
 
 ## Description
 
@@ -13,6 +13,8 @@
 <b>Input:</b>  <code>[1,2,3,4]</code>
 <b>Output:</b> <code>[24,12,8,6]</code>
 </pre>
+
+<p><strong>Constraint:</strong>&nbsp;It&#39;s guaranteed that the product of the elements of any prefix or suffix of the array (including the whole array) fits in a 32 bit integer.</p>
 
 <p><strong>Note: </strong>Please solve it <strong>without division</strong> and in O(<em>n</em>).</p>
 

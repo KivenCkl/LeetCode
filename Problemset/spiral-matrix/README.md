@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0054. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+# [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
 
 ## 题目描述
 

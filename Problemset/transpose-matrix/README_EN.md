@@ -1,13 +1,16 @@
 
 | English | [简体中文](README.md) |
 
-# [0867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)
+# [867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)
 
 ## Description
 
 <p>Given a&nbsp;matrix <code>A</code>, return the transpose of <code>A</code>.</p>
 
 <p>The transpose of a matrix is the matrix flipped over it&#39;s main diagonal, switching the row and column indices of the matrix.</p>
+
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/hint_transpose.png" width="700"/>
 
 <p>&nbsp;</p>
 
@@ -37,7 +40,6 @@
 </ol>
 </div>
 </div>
-
 
 ## Related Topics
 

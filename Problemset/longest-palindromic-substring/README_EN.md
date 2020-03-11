@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0005. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+# [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 ## Description
 

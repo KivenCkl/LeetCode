@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0007. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)
+# [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)
 
 ## Description
 

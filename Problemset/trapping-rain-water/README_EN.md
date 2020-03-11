@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0042. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)
+# [42. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)
 
 ## Description
 

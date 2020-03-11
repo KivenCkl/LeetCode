@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0005. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+# [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 ## 题目描述
 

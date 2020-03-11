@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
+# [141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0002. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)
+# [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ## Description
 

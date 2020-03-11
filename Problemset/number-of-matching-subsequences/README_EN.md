@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0792. Number of Matching Subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)
+# [792. Number of Matching Subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)
 
 ## Description
 

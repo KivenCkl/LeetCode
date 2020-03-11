@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0667. 优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
+# [667. 优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
 
 ## 题目描述
 

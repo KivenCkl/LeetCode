@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)
+# [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)
 
 ## 题目描述
 

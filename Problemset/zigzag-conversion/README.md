@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0006. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+# [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 
 ## 题目描述
 

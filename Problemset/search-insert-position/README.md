@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+# [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 
 ## 题目描述
 

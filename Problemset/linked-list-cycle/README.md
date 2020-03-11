@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+# [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 ## 题目描述
 

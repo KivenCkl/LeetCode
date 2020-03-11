@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0581. Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)
+# [581. Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0230. Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+# [230. Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+# [287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0077. 组合](https://leetcode-cn.com/problems/combinations/)
+# [77. 组合](https://leetcode-cn.com/problems/combinations/)
 
 ## 题目描述
 

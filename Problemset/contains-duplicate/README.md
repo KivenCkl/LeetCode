@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
+# [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
 
 ## 题目描述
 

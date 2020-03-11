@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
+# [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
 
 ## 题目描述
 

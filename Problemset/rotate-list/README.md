@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0061. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
+# [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
 
 ## 题目描述
 

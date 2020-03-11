@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0022. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+# [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 
 ## 题目描述
 

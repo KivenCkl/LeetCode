@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0713. Subarray Product Less Than K](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
+# [713. Subarray Product Less Than K](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 
 ## Description
 

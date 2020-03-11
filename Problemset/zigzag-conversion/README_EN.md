@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0006. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
+# [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
 
 ## Description
 

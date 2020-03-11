@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0661. Image Smoother](https://leetcode-cn.com/problems/image-smoother/)
+# [661. Image Smoother](https://leetcode-cn.com/problems/image-smoother/)
 
 ## Description
 

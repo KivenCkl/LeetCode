@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
+# [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
 
 ## 题目描述
 

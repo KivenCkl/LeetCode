@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0066. Plus One](https://leetcode-cn.com/problems/plus-one/)
+# [66. Plus One](https://leetcode-cn.com/problems/plus-one/)
 
 ## Description
 

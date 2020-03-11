@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0384. Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)
+# [384. Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)
 
 ## Description
 

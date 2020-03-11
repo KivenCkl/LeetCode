@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0171. Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/)
+# [171. Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/)
 
 ## Description
 

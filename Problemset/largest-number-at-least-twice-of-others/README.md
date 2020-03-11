@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)
+# [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)
 
 ## 题目描述
 
@@ -13,8 +13,7 @@
 
 <p><strong>示例 1:</strong></p>
 
-<pre>
-<strong>输入:</strong> nums = [3, 6, 1, 0]
+<pre><strong>输入:</strong> nums = [3, 6, 1, 0]
 <strong>输出:</strong> 1
 <strong>解释:</strong> 6是最大的整数, 对于数组中的其他整数,
 6大于数组中其他元素的两倍。6的索引是1, 所以我们返回1.
@@ -24,8 +23,7 @@
 
 <p><strong>示例 2:</strong></p>
 
-<pre>
-<strong>输入:</strong> nums = [1, 2, 3, 4]
+<pre><strong>输入:</strong> nums = [1, 2, 3, 4]
 <strong>输出:</strong> -1
 <strong>解释:</strong> 4没有超过3的两倍大, 所以我们返回 -1.
 </pre>
@@ -36,7 +34,7 @@
 
 <ol>
 	<li><code>nums</code>&nbsp;的长度范围在<code>[1, 50]</code>.</li>
-	<li>每个&nbsp;<code>nums[i]</code>&nbsp;的整数范围在&nbsp;<code>[0, 99]</code>.</li>
+	<li>每个&nbsp;<code>nums[i]</code>&nbsp;的整数范围在&nbsp;<code>[0, 100]</code>.</li>
 </ol>
 
 

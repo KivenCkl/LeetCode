@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0059. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
+# [59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
 
 ## Description
 

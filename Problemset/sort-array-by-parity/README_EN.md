@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0905. Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)
+# [905. Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)
 
 ## Description
 

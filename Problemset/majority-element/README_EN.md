@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
+# [169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
 
 ## Description
 
@@ -32,3 +32,4 @@
 ## Similar Questions
 
 - [Majority Element II](../majority-element-ii/README_EN.md)
+- [Check If a Number Is Majority Element in a Sorted Array](../check-if-a-number-is-majority-element-in-a-sorted-array/README_EN.md)

@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+# [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 ## 题目描述
 

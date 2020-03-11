@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
+# [162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
 
 ## Description
 

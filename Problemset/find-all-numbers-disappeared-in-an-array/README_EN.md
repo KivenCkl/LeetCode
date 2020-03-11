@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
+# [448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 ## Description
 

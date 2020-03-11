@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0125. Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
+# [125. Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
 
 ## Description
 

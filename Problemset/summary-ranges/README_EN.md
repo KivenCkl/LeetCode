@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0228. Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/)
+# [228. Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/)
 
 ## Description
 

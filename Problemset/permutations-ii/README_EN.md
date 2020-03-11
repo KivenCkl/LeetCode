@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0047. Permutations II](https://leetcode-cn.com/problems/permutations-ii/)
+# [47. Permutations II](https://leetcode-cn.com/problems/permutations-ii/)
 
 ## Description
 

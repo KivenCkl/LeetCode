@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0070. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+# [70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
 
 ## Description
 
@@ -41,3 +41,4 @@
 
 - [Min Cost Climbing Stairs](../min-cost-climbing-stairs/README_EN.md)
 - [Fibonacci Number](../fibonacci-number/README_EN.md)
+- [N-th Tribonacci Number](../n-th-tribonacci-number/README_EN.md)

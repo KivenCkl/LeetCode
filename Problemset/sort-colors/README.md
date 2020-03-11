@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+# [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
 
 ## 题目描述
 

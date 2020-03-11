@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0061. Rotate List](https://leetcode-cn.com/problems/rotate-list/)
+# [61. Rotate List](https://leetcode-cn.com/problems/rotate-list/)
 
 ## Description
 

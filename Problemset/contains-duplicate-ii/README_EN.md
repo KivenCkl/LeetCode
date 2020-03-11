@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)
+# [219. Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)
 
 ## Description
 

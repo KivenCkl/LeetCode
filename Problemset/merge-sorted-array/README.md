@@ -1,18 +1,22 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+# [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 ## 题目描述
 
-<p>给定两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使得&nbsp;<em>num1 </em>成为一个有序数组。</p>
+<p>给你两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，请你将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使 <em>num1 </em>成为一个有序数组。</p>
+
+<p>&nbsp;</p>
 
 <p><strong>说明:</strong></p>
 
 <ul>
-	<li>初始化&nbsp;<em>nums1</em> 和 <em>nums2</em> 的元素数量分别为&nbsp;<em>m</em> 和 <em>n</em>。</li>
+	<li>初始化&nbsp;<em>nums1</em> 和 <em>nums2</em> 的元素数量分别为&nbsp;<em>m</em> 和 <em>n </em>。</li>
 	<li>你可以假设&nbsp;<em>nums1&nbsp;</em>有足够的空间（空间大小大于或等于&nbsp;<em>m + n</em>）来保存 <em>nums2</em> 中的元素。</li>
 </ul>
+
+<p>&nbsp;</p>
 
 <p><strong>示例:</strong></p>
 

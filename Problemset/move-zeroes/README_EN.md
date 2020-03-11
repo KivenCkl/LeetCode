@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [0283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)
+# [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)
 
 ## Description
 

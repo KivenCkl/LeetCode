@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0040. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+# [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
 
 ## 题目描述
 

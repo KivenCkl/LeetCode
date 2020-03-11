@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [0055. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+# [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 
 ## 题目描述
 
@@ -15,7 +15,7 @@
 
 <pre><strong>输入:</strong> [2,3,1,1,4]
 <strong>输出:</strong> true
-<strong>解释:</strong> 从位置 0 到 1 跳 1 步, 然后跳 3 步到达最后一个位置。
+<strong>解释:</strong> 我们可以先跳 1 步，从位置 0 到达 位置 1, 然后再从位置 1 跳 3 步到达最后一个位置。
 </pre>
 
 <p><strong>示例&nbsp;2:</strong></p>
