@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+# [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
 
 ## 题目描述
 

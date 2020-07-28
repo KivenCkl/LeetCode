@@ -1,21 +1,26 @@
 
 # @Title: 两数之和 II - 输入有序数组 (Two Sum II - Input array is sorted)
 # @Author: KivenC
-# @Date: 2018-07-14 15:01:31
-# @Runtime: 28 ms
-# @Memory: N/A
+# @Date: 2020-07-20 18:11:45
+# @Runtime: 44 ms
+# @Memory: 14.2 MB
 
-class Solution(object):
-    def twoSum(self, numbers, target):
-        """
-        :type numbers: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        dic = dict()
-        for index, num in enumerate(numbers, start=1):
-            if target - num in dic:
-                return [dic[target - num], index]
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        # dic = {}
+        # for i, v in enumerate(numbers, start=1):
+        #     if target-v in dic:
+        #         return [dic[target-v], i]
+        #     else:
+        #         dic[v] = i
+
+        i, j = 0, len(numbers)-1
+        while j > i:
+            if numbers[i] + numbers[j] == target:
+                return [i+1, j+1]
+            elif numbers[i] + numbers[j] > target:
+                j -= 1
             else:
-                dic[num] = index
+                i += 1
         return []
+

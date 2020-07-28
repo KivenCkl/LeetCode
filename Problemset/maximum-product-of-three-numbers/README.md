@@ -36,4 +36,4 @@
 
 ## 相似题目
 
-- [乘积最大子序列](../maximum-product-subarray/README.md)
+- [乘积最大子数组](../maximum-product-subarray/README.md)

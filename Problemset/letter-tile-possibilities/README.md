@@ -7,6 +7,8 @@
 
 <p>你有一套活字字模&nbsp;<code>tiles</code>，其中每个字模上都刻有一个字母&nbsp;<code>tiles[i]</code>。返回你可以印出的非空字母序列的数目。</p>
 
+<p><strong>注意：</strong>本题中，每个活字字模只能使用一次。</p>
+
 <p>&nbsp;</p>
 
 <p><strong>示例 1：</strong></p>

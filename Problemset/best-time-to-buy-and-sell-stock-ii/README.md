@@ -11,6 +11,8 @@
 
 <p><strong>注意：</strong>你不能同时参与多笔交易（你必须在再次购买前出售掉之前的股票）。</p>
 
+<p>&nbsp;</p>
+
 <p><strong>示例 1:</strong></p>
 
 <pre><strong>输入:</strong> [7,1,5,3,6,4]
@@ -33,6 +35,15 @@
 <pre><strong>输入:</strong> [7,6,4,3,1]
 <strong>输出:</strong> 0
 <strong>解释:</strong> 在这种情况下, 没有交易完成, 所以最大利润为 0。</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= prices.length &lt;= 3 * 10 ^ 4</code></li>
+	<li><code>0 &lt;= prices[i]&nbsp;&lt;= 10 ^ 4</code></li>
+</ul>
 
 
 ## 相关话题

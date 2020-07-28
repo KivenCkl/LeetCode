@@ -11,19 +11,22 @@
 
 <p>你需要计算完成所有任务所需要的<strong>最短时间</strong>。</p>
 
-<p><strong>示例 1：</strong></p>
+<p>&nbsp;</p>
 
-<pre>
-<strong>输入:</strong> tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;B&quot;,&quot;B&quot;,&quot;B&quot;], n = 2
-<strong>输出:</strong> 8
-<strong>执行顺序:</strong> A -&gt; B -&gt; (待命) -&gt; A -&gt; B -&gt; (待命) -&gt; A -&gt; B.
-</pre>
+<p><strong>示例 ：</strong></p>
 
-<p><strong>注：</strong></p>
+<pre><strong>输入：</strong>tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;B&quot;,&quot;B&quot;,&quot;B&quot;], n = 2
+<strong>输出：</strong>8
+<strong>解释：</strong>A -&gt; B -&gt; (待命) -&gt; A -&gt; B -&gt; (待命) -&gt; A -&gt; B.
+     在本示例中，两个相同类型任务之间必须间隔长度为 n = 2 的冷却时间，而执行一个任务只需要一个单位时间，所以中间出现了（待命）状态。 </pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ol>
-	<li>任务的总个数为&nbsp;[1, 10000]。</li>
-	<li>n 的取值范围为 [0, 100]。</li>
+	<li>任务的总个数为&nbsp;<code>[1, 10000]</code>。</li>
+	<li><code>n</code> 的取值范围为 <code>[0, 100]</code>。</li>
 </ol>
 
 

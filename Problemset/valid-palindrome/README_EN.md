@@ -23,6 +23,13 @@
 <strong>Output:</strong> false
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>s</code> consists only of printable ASCII characters.</li>
+</ul>
+
 
 ## Related Topics
 

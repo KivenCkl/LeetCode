@@ -9,17 +9,25 @@
 
 <p>返回被除数&nbsp;<code>dividend</code>&nbsp;除以除数&nbsp;<code>divisor</code>&nbsp;得到的商。</p>
 
+<p>整数除法的结果应当截去（<code>truncate</code>）其小数部分，例如：<code>truncate(8.345) = 8</code> 以及 <code>truncate(-2.7335) = -2</code></p>
+
+<p>&nbsp;</p>
+
 <p><strong>示例&nbsp;1:</strong></p>
 
 <pre><strong>输入:</strong> dividend = 10, divisor = 3
-<strong>输出:</strong> 3</pre>
+<strong>输出:</strong> 3
+<strong>解释: </strong>10/3 = truncate(3.33333..) = truncate(3) = 3</pre>
 
 <p><strong>示例&nbsp;2:</strong></p>
 
 <pre><strong>输入:</strong> dividend = 7, divisor = -3
-<strong>输出:</strong> -2</pre>
+<strong>输出:</strong> -2
+<strong>解释:</strong> 7/-3 = truncate(-2.33333..) = -2</pre>
 
-<p><strong>说明:</strong></p>
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
 
 <ul>
 	<li>被除数和除数均为 32 位有符号整数。</li>

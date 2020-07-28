@@ -9,7 +9,7 @@
 
 <p><strong>示例:</strong></p>
 
-<pre><strong>输入:</strong> [-2,1,-3,4,-1,2,1,-5,4],
+<pre><strong>输入:</strong> [-2,1,-3,4,-1,2,1,-5,4]
 <strong>输出:</strong> 6
 <strong>解释:</strong>&nbsp;连续子数组&nbsp;[4,-1,2,1] 的和最大，为&nbsp;6。
 </pre>
@@ -28,6 +28,6 @@
 ## 相似题目
 
 - [买卖股票的最佳时机](../best-time-to-buy-and-sell-stock/README.md)
-- [乘积最大子序列](../maximum-product-subarray/README.md)
+- [乘积最大子数组](../maximum-product-subarray/README.md)
 - [数组的度](../degree-of-an-array/README.md)
 - [最长湍流子数组](../longest-turbulent-subarray/README.md)

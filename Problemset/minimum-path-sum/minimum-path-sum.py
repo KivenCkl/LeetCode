@@ -1,25 +1,29 @@
 
 # @Title: 最小路径和 (Minimum Path Sum)
 # @Author: KivenC
-# @Date: 2018-07-31 21:22:11
-# @Runtime: 92 ms
-# @Memory: N/A
+# @Date: 2020-07-23 18:12:38
+# @Runtime: 40 ms
+# @Memory: 13.9 MB
 
 class Solution:
-    def minPathSum(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
-        R, C = len(grid), len(grid[0])
-        for i in range(R):
-            if i == 0:
-                for j in range(1, C):
-                    grid[i][j] += grid[i][j-1]
-            else:
-                for j in range(C):
-                    if j == 0:
-                        grid[i][j] += grid[i-1][j]
-                    else:
-                        grid[i][j] += min(grid[i-1][j], grid[i][j-1])
-        return grid[R-1][C-1]
+    def minPathSum(self, grid: List[List[int]]) -> int:
+        # m, n = len(grid), len(grid[0])
+        # for i in range(m):
+        #     for j in range(n):
+        #         tmp = float('inf')
+        #         if i - 1 >= 0:
+        #             tmp = min(tmp, grid[i-1][j])
+        #         if j - 1 >= 0:
+        #             tmp = min(tmp, grid[i][j-1])
+        #         if tmp == float('inf'):
+        #             tmp = 0
+        #         grid[i][j] += tmp
+        # return grid[-1][-1]
+
+        dp = [float('inf')] * (len(grid[0]) + 1)
+        dp[1] = 0
+        for row in grid:
+            for i, num in enumerate(row):
+                dp[i+1] = min(dp[i], dp[i+1]) + num
+        return dp[-1]
+

@@ -1,5 +1,5 @@
 
-# @Title: 乘积最大子序列 (Maximum Product Subarray)
+# @Title: 乘积最大子数组 (Maximum Product Subarray)
 # @Author: KivenC
 # @Date: 2019-03-13 11:22:09
 # @Runtime: 108 ms

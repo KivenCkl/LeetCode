@@ -31,5 +31,5 @@
 ## 相似题目
 
 - [接雨水](../trapping-rain-water/README.md)
-- [乘积最大子序列](../maximum-product-subarray/README.md)
+- [乘积最大子数组](../maximum-product-subarray/README.md)
 - [粉刷房子 II](../paint-house-ii/README.md)

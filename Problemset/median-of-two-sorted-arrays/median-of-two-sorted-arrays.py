@@ -1,5 +1,5 @@
 
-# @Title: 寻找两个有序数组的中位数 (Median of Two Sorted Arrays)
+# @Title: 寻找两个正序数组的中位数 (Median of Two Sorted Arrays)
 # @Author: KivenC
 # @Date: 2019-06-05 16:35:52
 # @Runtime: 68 ms
