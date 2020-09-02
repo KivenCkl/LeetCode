@@ -1,18 +1,11 @@
 
 # @Title: 反转字符串中的单词 III (Reverse Words in a String III)
 # @Author: KivenC
-# @Date: 2018-12-04 15:35:18
-# @Runtime: 80 ms
-# @Memory: N/A
+# @Date: 2020-08-30 15:54:42
+# @Runtime: 40 ms
+# @Memory: 14.2 MB
 
 class Solution:
-    def reverseWords(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        sList = s.split(' ')
-        for i in range(len(sList)):
-            sList[i] = sList[i][::-1]
-        return ' '.join(sList)
-            
+    def reverseWords(self, s: str) -> str:
+        return ' '.join(map(lambda x: x[::-1], s.split(' ')))
+
