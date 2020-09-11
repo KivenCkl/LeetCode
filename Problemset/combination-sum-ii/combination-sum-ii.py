@@ -1,28 +1,26 @@
 
 # @Title: 组合总和 II (Combination Sum II)
 # @Author: KivenC
-# @Date: 2018-07-24 19:37:45
-# @Runtime: 68 ms
-# @Memory: N/A
+# @Date: 2020-09-10 22:16:31
+# @Runtime: 48 ms
+# @Memory: 13.5 MB
 
-class Solution(object):
-    def combinationSum2(self, candidates, target):
-        """
-        :type candidates: List[int]
-        :type target: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = []
         candidates.sort()
-        self.res = []
-        self.DFS(candidates, target, 0, [])
-        return self.res
-    
-    def DFS(self, candidates, target, start, value_list):
-        if target == 0:
-            return self.res.append(value_list)
-        for i in range(start, len(candidates)):
-            if target < candidates[i]:
-                return
-            if i != start and candidates[i-1] == candidates[i]:
-                continue
-            self.DFS(candidates, target - candidates[i], i + 1, value_list + [candidates[i]])
+        n = len(candidates)
+
+        def helper(start, n, target, path):
+            if target == 0:
+                res.append(path)
+            for i in range(start, n):
+                if target < candidates[i]:
+                    return
+                if i != start and candidates[i] == candidates[i-1]:
+                    continue
+                helper(i + 1, n, target - candidates[i], path + [candidates[i]])
+        
+        helper(0, n, target, [])
+        return res
+

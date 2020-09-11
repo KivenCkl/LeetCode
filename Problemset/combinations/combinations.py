@@ -1,31 +1,28 @@
 
 # @Title: 组合 (Combinations)
 # @Author: KivenC
-# @Date: 2019-05-08 15:39:31
-# @Runtime: 232 ms
-# @Memory: 14.8 MB
+# @Date: 2020-09-08 22:00:15
+# @Runtime: 56 ms
+# @Memory: 15.1 MB
 
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        # way 1
-        # import itertools
-        # return list(itertools.combinations(range(1,n + 1),k))
-        #
-        # way 2
-        # 回溯法
-        # def dfs(nums, k):
-        #     if k == 0:
-        #         return []
-        #     if k == 1:
-        #         return [[i] for i in nums]
-        #     res = []
+        # res = []
+        # nums = list(range(1, n + 1))
+
+        # def helper(nums, path):
+        #     if len(path) == k:
+        #         res.append(path)
+        #     if not nums:
+        #         return
         #     for i, num in enumerate(nums):
-        #         for j in dfs(nums[i + 1:], k - 1):
-        #             res.append([num] + j)
-        #     return res
-        # return dfs(list(range(1, n + 1)), k)
-        #
-        # way 3
+        #         helper(nums[i+1:], path + [num])
+        
+        # helper(nums, [])
+        # return res
+
+        # return list(itertools.combinations(range(1,n + 1),k))
+
         # C(m, n) = C(m-1, n-1) + C(m-1, n)
         # C(5, 3) = C(4, 2) + C(4, 3)
         #         = C(3, 1) + C(3, 2) + C(3, 2) + C(3, 3)
@@ -41,4 +38,4 @@ class Solution:
             item.append(n)
             ans.append(item)
         return ans
-        
+
